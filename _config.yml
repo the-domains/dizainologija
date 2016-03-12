@@ -1,0 +1,28 @@
+name: dizainologija
+favicon: null
+layout_spectrum: 0.29875982692465186
+typography_spectrum: 0.7308262959122658
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7614237843081355
+  lightness: 0.48779681767337024
+  saturation: 0.11670761834830046
+  rhythmicContrast: 0.22112567559815943
+purpose: []
