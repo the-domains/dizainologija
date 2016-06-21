@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[dizainologija]]></title>
         <description><![CDATA[dizainologija]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dizainologija/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 14:11:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 21 Jun 2016 12:31:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dizainologija/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Katherine McCoy : Thoughts on Design Writing]]></title>
+            <description><![CDATA[<h1>Katherine McCoy : Thoughts on Design Writing</h1>]]></description>
+            <link>https://thegrid.ai/dizainologija/katherine-mccoy-thoughts-on-design-writing/index.html</link>
+            <guid isPermaLink="false">e22143ef-46eb-443a-b68e-4aca7c4d1953</guid>
+            <pubDate>Tue, 21 Jun 2016 12:31:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5a620f8-6180-449e-8fc6-cca1867a7851.jpg">]]></description>
-            <link>undefinedatradimas-nuostabiu-nemokamu-fotografiju-svetaine-free-d/index.html</link>
+            <link>https://thegrid.ai/dizainologija/atradimas-nuostabiu-nemokamu-fotografiju-svetaine-free-d/index.html</link>
             <guid isPermaLink="false">ef41ea35-4e88-4961-8682-3920b564d9f5</guid>
             <pubDate>Sat, 12 Mar 2016 14:11:29 GMT</pubDate>
         </item>
